@@ -64,7 +64,7 @@ class _gxwSplashScreenXWState extends State<gxwSplashScreenXW>
 
     cye_animationControllerWIF = AnimationController(
       vsync: this,
-      duration: Duration(seconds: 3),
+      duration: Duration(seconds: 5),
     );
 
     ce_animationFIf = Tween<double>(begin: 0.0, end: 1.0).animate(
